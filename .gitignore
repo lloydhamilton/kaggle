@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.pkl
+random_forest_best_estimator.pkl
